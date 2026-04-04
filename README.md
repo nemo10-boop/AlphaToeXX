@@ -1,7 +1,5 @@
 #  AlphaToe — Unbeatable Tic-Tac-Toe AI
 
-**Google Colab Project | Minimax + Alpha-Beta Pruning | No API Required**
-
 ---
 
 ## What is AlphaToe?
