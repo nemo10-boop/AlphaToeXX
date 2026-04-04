@@ -1,8 +1,8 @@
-#  AlphaToe — Unbeatable Tic-Tac-Toe AI
+#  MiniMaxToe — Unbeatable Tic-Tac-Toe AI
 
 ---
 
-## What is AlphaToe?
+## What is MiniMaxToe?
 
 AlphaToe is an unbeatable Tic-Tac-Toe AI built entirely in Google Colab using pure Python — no APIs, no machine learning, no external infrastructure. Click a cell on the interactive board and the AI instantly responds with the mathematically optimal move, every single time.
 
